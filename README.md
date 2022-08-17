@@ -37,7 +37,7 @@ JUnit:
 
 
 - Código já sai "testado”.
-- Evita testes "viciados"na implementação.
+- Evita testes "viciados" na implementação.
 - Refatoração faz parte do processo.
 - Ajuda a manter o foco.
 - Temos uma “tendência” em escrever um código mais simples.
